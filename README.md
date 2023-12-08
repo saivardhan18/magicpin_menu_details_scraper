@@ -1,0 +1,1 @@
+# magicpin_menu_details_scraper
